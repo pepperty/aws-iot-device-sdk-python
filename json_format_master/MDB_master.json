@@ -1,0 +1,247 @@
+{
+    "gateway":"",
+    "topic":"",
+    "device":[
+        {
+            "name":"Room Environment #1",
+            "tags":[
+                {
+                    "name":"Room Temperature",
+                    "value":"",
+                    "value_type":"DOUBLE",
+                    "unit":"degC"
+                },
+                {
+                    "name":"Room Humidity",
+                    "value":"",
+                    "value_type":"DOUBLE",
+                    "unit":"%"
+                },
+                {
+                    "name":"Mode",
+                    "value":"",
+                    "value_type":"STRING",
+                    "unit":""
+                }
+            ]
+        },
+        {
+            "name":"ATS #1",
+            "tags":[
+                {
+                    "name":"Status",
+                    "value":"",
+                    "value_type":"STRING",
+                    "unit":""
+                },
+                {
+                    "name":"Trouble",
+                    "value":"",
+                    "value_type":"STRING",
+                    "unit":""
+                },
+                {
+                    "name":"Mode",
+                    "value":"",
+                    "value_type":"STRING",
+                    "unit":""
+                }
+            ]
+        },
+        {
+            "name":"TIE #1",
+            "tags":[
+                {
+                    "name":"Status",
+                    "value":"",
+                    "value_type":"STRING",
+                    "unit":""
+                }
+            ]
+        },
+        {
+            "name":"MDB 1 #1",
+            "tags":[
+                {
+                    "name":"Voltage A-B",
+                    "value":"",
+                    "value_type":"INTEGER",
+                    "unit":"V"
+                },
+                {
+                    "name":"Voltage B-C",
+                    "value":"",
+                    "value_type":"INTEGER",
+                    "unit":"V"
+                },
+                {
+                    "name":"Voltage C-A",
+                    "value":"",
+                    "value_type":"INTEGER",
+                    "unit":"V"
+                },
+                {
+                    "name":"Voltage A-N",
+                    "value":"",
+                    "value_type":"INTEGER",
+                    "unit":"V"
+                },
+                {
+                    "name":"Voltage B-N",
+                    "value":"",
+                    "value_type":"INTEGER",
+                    "unit":"V"
+                },
+                {
+                    "name":"Voltage C-N",
+                    "value":"",
+                    "value_type":"INTEGER",
+                    "unit":"V"
+                },
+                {
+                    "name":"Current A",
+                    "value":"",
+                    "value_type":"INTEGER",
+                    "unit":"A"
+                },
+                {
+                    "name":"Current B",
+                    "value":"",
+                    "value_type":"INTEGER",
+                    "unit":"A"
+                },
+                {
+                    "name":"Current C",
+                    "value":"",
+                    "value_type":"INTEGER",
+                    "unit":"A"
+                },
+                {
+                    "name":"Current N",
+                    "value":"",
+                    "value_type":"INTEGER",
+                    "unit":"A"
+                },
+                {
+                    "name":"Active Power A",
+                    "value":"",
+                    "value_type":"INTEGER",
+                    "unit":"kW"
+                },
+                {
+                    "name":"Active Power B",
+                    "value":"",
+                    "value_type":"INTEGER",
+                    "unit":"kW"
+                },
+                {
+                    "name":"Active Power C",
+                    "value":"",
+                    "value_type":"INTEGER",
+                    "unit":"kW"
+                },
+                {
+                    "name":"Active Power N",
+                    "value":"",
+                    "value_type":"INTEGER",
+                    "unit":"kW"
+                },
+                {
+                    "name":"Apparent Power A",
+                    "value":"",
+                    "value_type":"INTEGER",
+                    "unit":"kVA"
+                },
+                {
+                    "name":"Apparent Power B",
+                    "value":"",
+                    "value_type":"INTEGER",
+                    "unit":"kVA"
+                },
+                {
+                    "name":"Apparent Power C",
+                    "value":"",
+                    "value_type":"INTEGER",
+                    "unit":"kVA"
+                },
+                {
+                    "name":"Apparent Power N",
+                    "value":"",
+                    "value_type":"INTEGER",
+                    "unit":"kVA"
+                },
+                {
+                    "name":"Real Power A",
+                    "value":"",
+                    "value_type":"INTEGER",
+                    "unit":"kVar"
+                },
+                {
+                    "name":"Real Power B",
+                    "value":"",
+                    "value_type":"INTEGER",
+                    "unit":"kVar"
+                },
+                {
+                    "name":"Real Power C",
+                    "value":"",
+                    "value_type":"INTEGER",
+                    "unit":"kVar"
+                },
+                {
+                    "name":"Real Power N",
+                    "value":"",
+                    "value_type":"INTEGER",
+                    "unit":"kVar"
+                },
+                {
+                    "name":"Power Factor A",
+                    "value":"",
+                    "value_type":"DOUBLE",
+                    "unit":""
+                },
+                {
+                    "name":"Power Factor B",
+                    "value":"",
+                    "value_type":"DOUBLE",
+                    "unit":""
+                },
+                {
+                    "name":"Power Factor C",
+                    "value":"",
+                    "value_type":"DOUBLE",
+                    "unit":""
+                },
+                {
+                    "name":"Frequency",
+                    "value":"",
+                    "value_type":"INTEGER",
+                    "unit":"Hz"
+                },
+                {
+                    "name":"Total Active Energy",
+                    "value":"",
+                    "value_type":"INTEGER",
+                    "unit":"kWh"
+                },
+                {
+                    "name":"Total Reactive Energy",
+                    "value":"",
+                    "value_type":"INTEGER",
+                    "unit":"kVarh"
+                }
+            ]
+        },
+        {
+            "name":"ACB 1 #1",
+            "tags":[
+                {
+                    "name":"Status",
+                    "value":"",
+                    "value_type":"STRING",
+                    "unit":""
+                }
+            ]
+        }
+    ]
+}
